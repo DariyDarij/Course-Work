@@ -1,0 +1,15 @@
+{
+  "name": "course-work",
+  "version": "0.0.1",
+  "description": "A cource work",
+  "author": "KurchenkoDarij <thefinalwarningg@gmail.com>",
+  "private": true,
+  "scripts": {
+    "build:androin": "quasar build -m capacitor -T android"
+  },
+  "dependencies": {
+    "@capacitor/android": "2.5.0",
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0"
+  }
+}

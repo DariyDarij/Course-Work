@@ -1,0 +1,7 @@
+{
+  "appId": "course.work",
+  "appName": "Couse Work - Конвертор дати",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}

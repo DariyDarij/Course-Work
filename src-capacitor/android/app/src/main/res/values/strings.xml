@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Couse Work</string>
+    <string name="title_activity_main">Couse Work</string>
+    <string name="package_name">course.work</string>
+    <string name="custom_url_scheme">course.work</string>
+</resources>
